@@ -1,7 +1,7 @@
 export default function Contact() {
     return (
         <>
-            <h1 className="text-5xl">Contact</h1>
+            <h1 style={{padding:'5rem',backgroundColor:'yellow'}}>Contact</h1>
         </>
     )
 }

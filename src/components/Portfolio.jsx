@@ -1,7 +1,7 @@
 export default function Portfolio() {
     return (
         <>
-            <h1 className="text-5xl">Portfolio</h1>
+            <h1 style={{padding:'5rem',backgroundColor:'yellow'}}>Portfolio</h1>
         </>
     )
 }
